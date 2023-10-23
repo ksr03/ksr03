@@ -1,6 +1,11 @@
 ### Nice to meet you 👋
 I am a student studying information technology in Japan💻
 
+<p align="left">
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ksr03&theme=cobalt&show_icons=ture" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksr03&layout=compact&show_icons=true&theme=cobalt" />
+</p>
+
 <!--
 **ksr03/ksr03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
