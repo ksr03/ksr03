@@ -1,4 +1,4 @@
-#### Nice to meet you 👋
+### Nice to meet you 👋
 I am a student studying information technology in Japan💻
 
 <!--
