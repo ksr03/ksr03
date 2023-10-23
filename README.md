@@ -1,4 +1,5 @@
-### Hi there 👋
+#### Nice to meet you 👋
+I am a student studying information technology in Japan💻
 
 <!--
 **ksr03/ksr03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
