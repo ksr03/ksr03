@@ -6,6 +6,7 @@ I am a student studying information technology in Japan💻
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksr03&layout=compact&show_icons=true&theme=cobalt" />
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ksr03&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **ksr03/ksr03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
