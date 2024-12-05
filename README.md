@@ -1,5 +1,7 @@
 ### Nice to meet you 👋
-I`m a student studying information technology in Japan💻
+I`m a student studying information technology in Japan💻<br/>
+And, I have a particular interest in computer graphics.<br/>
+In the future, I aspire to be involved in developing content that leverages my knowledge of computer graphics!
 
 <p align="left">
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ksr03&theme=cobalt&show_icons=ture" />
